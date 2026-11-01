@@ -17,3 +17,4 @@ Thumbs.db
 
 # 本地改动前的备份快照
 lib.bak-*/
+lib/*.bak*
