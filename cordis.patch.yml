@@ -1,0 +1,7 @@
+# dsh-whale-core bundle patch：把插件行插进 profile 的 loader 名单。
+# config 里只放本插件自己拥有的键，后面想覆盖单个值不用改这一层。
+- insert:
+    - id: whale-core
+      name: dsh-whale-core
+      config:
+        enabled: true

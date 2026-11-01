@@ -1,0 +1,16 @@
+# 依赖
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+
+# 运行数据（万一被误放进仓库）
+*.jsonl
+backups/
+settings.json
+profile.json
+
+# 日志与临时文件
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
