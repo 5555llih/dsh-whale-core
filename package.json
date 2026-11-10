@@ -1,6 +1,6 @@
 {
   "name": "dsh-whale-core",
-  "version": "0.6.15",
+  "version": "0.6.16",
   "description": "DSH 专用身份内核：可编辑人设 + 记忆 + 心情衰减 + 设置面板（零依赖，不含 QQ 通道）",
   "type": "module",
   "main": "./lib/index.js",
